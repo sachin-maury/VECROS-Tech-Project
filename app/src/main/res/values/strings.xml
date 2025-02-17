@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RTSP Video Streaming App</string>
+    <string name="enter_your_rtsp_url">Enter your RTSP Url</string>
+</resources>
