@@ -14,7 +14,7 @@ This application enables users to stream video using the RTSP (Real-Time Streami
 - A device or emulator running Android 8.0 (Oreo) or higher.
 - Network connection for RTSP streaming.
 - RTSP-compatible video server URL.
-## Testin URL
+## Testing URL
 - rtsp://77.110.228.219/axis-media/media.amp
 
 ## Setup Instructions
