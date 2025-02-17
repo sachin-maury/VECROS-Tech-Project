@@ -21,4 +21,4 @@ This application enables users to stream video using the RTSP (Real-Time Streami
 Clone or download the repository containing the source code for the application:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sachin-maury/VECROS-Tech-Project
